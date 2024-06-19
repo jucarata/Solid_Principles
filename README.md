@@ -10,7 +10,7 @@ Los principios SOLID son un conjunto de 5 reglas fundamentales en la programacio
 
 
 ## Liskov Substitution Principle
-- Los objetos de un programa deberían ser reemplazables por instancias de sus subtipos sin alterar el correcto funcionamiento del programa
+- Los objetos de una clase derivada deben ser sustituibles por objetos de su clase base sin alterar el comportamiento correcto del programa
 
 
 ## Interface Segregation Principle
